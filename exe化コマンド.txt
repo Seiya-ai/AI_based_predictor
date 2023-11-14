@@ -1,0 +1,1 @@
+pyinstaller marketing_predictor.py --onefile --noconsole --icon=logo.ico
